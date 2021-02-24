@@ -1,0 +1,7 @@
+# ninja log v5
+0	708	635880480	cpp-primer/CMakeFiles/cpp-primer.dir/cpp-primer.cpp.obj	bc82e4d250e85fa0
+709	1032	635880480	cpp-primer/cpp-primer.exe	caae96937a141159
+0	573	635880578	cpp-primer/CMakeFiles/cpp-primer.dir/main.cpp.obj	1ed2c1bbc2ef0142
+0	533	635880616	cpp-primer/CMakeFiles/cpp-primer.dir/main.cpp.obj	1ed2c1bbc2ef0142
+0	283	635880632	cpp-primer/CMakeFiles/cpp-primer.dir/cpp-primer.cpp.obj	bc82e4d250e85fa0
+284	403	635880632	cpp-primer/cpp-primer.exe	11b23b8fccb1163c
